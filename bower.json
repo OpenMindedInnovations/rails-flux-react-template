@@ -1,0 +1,22 @@
+{
+  "name": "Rails Flux React Template",
+  "version": "0.0.0",
+  "authors": [
+    "jbhatab <jbhatab@gmail.com>"
+  ],
+  "description": "Rails is awesome. Flux is awesome. React is awesome. This combines them!",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery-ujs": "~1.0.4",
+    "bootstrap-sass": "~3.3",
+    "animate.css": "~3.3.0",
+    "wowjs": "~1.1.2",
+    "react": "~0.13.3",
+    "alt": "~0.17.1",
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6",
+    "toastr": "~2.1.2"
+  }
+}

@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+    title Rails Flux React Template
+    = stylesheet_link_tag 'http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700'
+
+    = stylesheet_link_tag    'application', 'data-turbolinks-track' => true, media: 'all'
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+
+    = csrf_meta_tags
+  body
+    = render 'layouts/header'
+    .container
+      .row
+        .col-xs-12
+          = yield

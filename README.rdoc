@@ -1,0 +1,20 @@
+== Rails Flux React Templates
+
+```
+git clone 
+```
+
+
+* Bootstrap
+* Toastr
+* Alt
+* React rails
+* Animate/Wow.js
+* bower
+* lodash
+* moment
+* simple form
+* sass
+* coffeescript
+* turbolinks
+* jbuilder
