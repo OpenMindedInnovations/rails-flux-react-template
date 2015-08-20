@@ -3,7 +3,6 @@
 #= require bootstrap-sass/assets/javascripts/bootstrap.min
 #= require turbolinks
 #= require js-routes
-#= require wowjs/dist/wow.min
 #= require react/react.min
 #= require react_ujs
 #= require components

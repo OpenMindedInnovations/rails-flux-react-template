@@ -12,12 +12,6 @@ gem 'turbolinks'
 
 gem 'bower-rails', '~> 0.10.0'
 
-# Better console ouput by replacing 'puts' with 'ap' 
-gem 'awesome_print'
-
-# Better rails forms
-gem 'simple_form'
-
 # React
 gem 'react-rails', '~> 1.0'
 
